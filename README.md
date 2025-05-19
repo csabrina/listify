@@ -5,11 +5,11 @@ Listify é um aplicativo prático e intuitivo para gerenciamento de listas de co
 ## Funcionalidades
 O aplicativo utiliza uma navegação por Bottom Tabs, dividida em três seções principais:
 
-- Dispensa:
+- *Dispensa:*
 Crie e mantenha sua dispensa ideal, com todos os produtos que deseja ter em casa, definindo a quantidade ideal de cada item.
-- Lista:
+- *Lista:*
 Planeje sua próxima compra com base na sua dispensa. Aqui, você define a quantidade a ser comprada, podendo comparar com a quantidade ideal da dispensa para tomar melhores decisões.
-- Compra:
+- *Compra:*
 Visualize apenas os itens que precisam ser comprados, de forma clara e objetiva. Marque os produtos conforme forem sendo adquiridos, facilitando o processo durante as compras.
 
 ## Diferenciais
