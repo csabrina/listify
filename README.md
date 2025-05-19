@@ -1,4 +1,5 @@
-🛒 Listify
+# 🛒 Listify
+
 Listify é um aplicativo prático e intuitivo para gerenciamento de listas de compras domésticas, focado em facilitar o controle da despensa e a organização das compras de supermercado. O objetivo do Listify é auxiliar famílias ou pessoas que desejam manter o controle eficiente dos produtos que precisam estar sempre disponíveis em casa e planejar melhor suas compras, evitando esquecimentos ou excessos.
 
 ## Funcionalidades
